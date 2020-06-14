@@ -1,0 +1,19 @@
+Visual Studio Code extensions:
+```
+alexcvzz.vscode-sqlite
+christian-kohler.npm-intellisense
+dbaeumer.vscode-eslint
+eamodio.gitlens
+EditorConfig.EditorConfig
+icrawl.discord-vscode
+joelday.docthis
+mikestead.dotenv
+ms-vscode-remote.remote-wsl
+ms-vsliveshare.vsliveshare
+ms-vsliveshare.vsliveshare-pack
+naumovs.color-highlight
+PKief.material-icon-theme
+rocketseat.theme-omni
+tht13.html-preview-vscode
+wix.vscode-import-cost
+```
