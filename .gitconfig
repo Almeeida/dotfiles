@@ -1,5 +1,5 @@
 [http]
-	sslVerify = true
+  sslVerify = true
 [alias]
   ci = commit
   co = checkout
