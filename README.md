@@ -7,12 +7,16 @@ eamodio.gitlens
 EditorConfig.EditorConfig
 icrawl.discord-vscode
 joelday.docthis
+jpoissonnier.vscode-styled-components
 mikestead.dotenv
 ms-vscode-remote.remote-wsl
 ms-vsliveshare.vsliveshare
 ms-vsliveshare.vsliveshare-pack
 naumovs.color-highlight
+Orta.vscode-jest
 PKief.material-icon-theme
+rocketseat.rocketseatreactjs
+rocketseat.rocketseatreactnative
 rocketseat.theme-omni
 tht13.html-preview-vscode
 wix.vscode-import-cost
