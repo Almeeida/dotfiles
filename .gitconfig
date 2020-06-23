@@ -1,5 +1,9 @@
 [http]
   sslVerify = true
+[core]
+	editor = \"C:\\Users\\rodri\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
+[credential]
+	helper = store
 [alias]
   ci = commit
   co = checkout
