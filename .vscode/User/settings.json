@@ -2,9 +2,9 @@
   "[markdown]": {
     "files.trimTrailingWhitespace": false
   },
+  "breadcrumbs.enabled": true,
   "discord.detailsEditing": "{filename} | {workspace}",
   "discord.lowerDetailsEditing": "Line: {currentline}/{totallines} | {filesize}",
-  "discord.workspaceElapsedTime": true,
   "docthis.includeMemberOfOnClassMembers": false,
   "docthis.includeMemberOfOnInterfaceMembers": false,
   "editor.codeActionsOnSave": {
@@ -13,7 +13,7 @@
   "editor.cursorBlinking": "phase",
   "editor.cursorSmoothCaretAnimation": false,
   "editor.detectIndentation": false,
-  "editor.fontFamily": "Fira Code",
+  "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
   "editor.insertSpaces": true,
   "editor.minimap.maxColumn": 200,
@@ -25,7 +25,7 @@
   "editor.suggestSelection": "first",
   "editor.tabSize": 2,
   "emmet.includeLanguages": {
-      "javascript": "javascriptreact"
+    "javascript": "javascriptreact"
   },
   "emmet.syntaxProfiles": {
     "html": {
@@ -57,26 +57,54 @@
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "explorer.openEditors.visible": 0,
+  "files.associations": {
+    ".prettierrc": "json",
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json"
+  },
   "files.autoSave": "off",
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
+  "gitlens.codeLens.authors.enabled": false,
+  "gitlens.codeLens.enabled": false,
+  "gitlens.codeLens.recentChange.enabled": false,
   "gitlens.currentLine.enabled": false,
   "gitlens.hovers.currentLine.over": "line",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "liveServer.settings.donotShowInfoMsg": true,
   "liveshare.connectionMode": "relay",
+  "material-icon-theme.files.associations": {
+    "jsconfig.json": "tune",
+    "tsconfig.json": "tune"
+  },
   "material-icon-theme.folders.associations": {
     ".idea": "config",
+    "bot": "client",
     "cooldown": "helper",
-    "discord": "helper",
+    "dtos": "typescript",
     "en-US": "i18n",
+    "entities": "class",
+    "eslint": "config",
+    "fakes": "mock",
+    "grpc": "pipe",
     "guild": "resource",
+    "http": "container",
+    "implementations": "core",
+    "infra": "app",
+    "inhibitors": "resource",
     "listeners": "event",
     "loaders": "tools",
     "migrations": "tools",
-    "repositories": "dump",
-    "structures": "core"
+    "modules": "components",
+    "process": "dump",
+    "protos": "pipe",
+    "repositories": "mappings",
+    "schemas": "class",
+    "structures": "core",
+    "typeorm": "database",
+    "websockets": "pipe"
   },
+  "prettier.singleQuote": true,
   "tabnine.experimentalAutoImports": true,
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
@@ -87,5 +115,7 @@
   "window.zoomLevel": 0,
   "workbench.colorTheme": "Omni",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.startupEditor": "newUntitledFile"
+  "workbench.startupEditor": "newUntitledFile",
+  "discord.workspaceElapsedTime": true,
+  "C_Cpp.updateChannel": "Insiders"
 }
