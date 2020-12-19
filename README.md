@@ -1,10 +1,9 @@
 Visual Studio Code extensions:
 ```
 alexcvzz.vscode-sqlite
+bungcip.better-toml
 christian-kohler.npm-intellisense
-cssho.vscode-svgviewer
 dbaeumer.vscode-eslint
-eamodio.gitlens
 EditorConfig.EditorConfig
 esbenp.prettier-vscode
 icrawl.discord-vscode
@@ -12,15 +11,20 @@ joelday.docthis
 jpoissonnier.vscode-styled-components
 kamikillerto.vscode-colorize
 mikestead.dotenv
+ms-azuretools.vscode-docker
+ms-vscode-remote.remote-containers
 ms-vscode-remote.remote-wsl
 ms-vsliveshare.vsliveshare
 ms-vsliveshare.vsliveshare-pack
 naumovs.color-highlight
 PKief.material-icon-theme
+ricardo-emerson.create-react-tsx-component
 ritwickdey.LiveServer
 rocketseat.rocketseatreactjs
 rocketseat.rocketseatreactnative
 rocketseat.theme-omni
+silvenon.mdx
+TabNine.tabnine-vscode
 tht13.html-preview-vscode
-wix.vscode-import-cost
+WakaTime.vscode-wakatime
 ```
