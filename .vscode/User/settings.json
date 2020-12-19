@@ -3,8 +3,10 @@
     "files.trimTrailingWhitespace": false
   },
   "breadcrumbs.enabled": true,
+  "C_Cpp.updateChannel": "Insiders",
   "discord.detailsEditing": "{filename} | {workspace}",
   "discord.lowerDetailsEditing": "Line: {currentline}/{totallines} | {filesize}",
+  "discord.workspaceElapsedTime": true,
   "docthis.includeMemberOfOnClassMembers": false,
   "docthis.includeMemberOfOnInterfaceMembers": false,
   "editor.codeActionsOnSave": {
@@ -15,6 +17,7 @@
   "editor.detectIndentation": false,
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
+  // "editor.formatOnSave": true,
   "editor.insertSpaces": true,
   "editor.minimap.maxColumn": 200,
   "editor.minimap.renderCharacters": false,
@@ -92,6 +95,7 @@
     "implementations": "core",
     "infra": "app",
     "inhibitors": "resource",
+    "lint": "config",
     "listeners": "event",
     "loaders": "tools",
     "migrations": "tools",
@@ -101,10 +105,12 @@
     "repositories": "mappings",
     "schemas": "class",
     "structures": "core",
+    "types": "typescript",
     "typeorm": "database",
     "websockets": "pipe"
   },
   "prettier.singleQuote": true,
+  "prettier.useEditorConfig": true,
   "tabnine.experimentalAutoImports": true,
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
@@ -116,6 +122,8 @@
   "workbench.colorTheme": "Omni",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "newUntitledFile",
-  "discord.workspaceElapsedTime": true,
-  "C_Cpp.updateChannel": "Insiders"
+  "editor.renameOnType": true,
+  "typescript.suggest.autoImports": true,
+  "typescript.preferences.includePackageJsonAutoImports": "on",
+  "typescript.preferences.importModuleSpecifierEnding": "minimal"
 }
